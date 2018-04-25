@@ -4,3 +4,5 @@ tenant_id                    = "9fb4172f-abc5-40ee-8d26-db6310c53d24"
 
 resource_group_name          = "terraformtest"
 location                     = "westus2"
+app_service_name             = "amirnaghibi"
+app_service_plan_name        = "newsletter"

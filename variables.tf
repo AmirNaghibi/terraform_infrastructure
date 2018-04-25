@@ -6,3 +6,5 @@ variable "subscription_id"       {default = ""}
 
 variable "resource_group_name"   {default = ""}
 variable "location"              {default = ""}
+variable "app_service_name"      {default = ""}
+variable "app_service_plan_name" {default = ""}
