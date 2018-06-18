@@ -1,6 +1,6 @@
-client_id                    = "6d47bb63-24e1-4e09-8f2a-3faf3da8dffc" 
-client_secret                = "qO4X8D3Fj0kref/q8dUGcYR0sIZKC1ytLNB9Iv11Csk=" 
-tenant_id                    = "9fb4172f-abc5-40ee-8d26-db6310c53d24"
+client_id                    = "b61b00af-d952-4a7a-a919-1645b2d2604e" 
+client_secret                = "94oQjoZBXvR7GOsMNwnYsgNezHcXwsTw/Az9Mlj2eDo=" 
+tenant_id                    = "c7d3598d-ab4d-46fa-b261-206ec5cd7818"
 
 resource_group_name          = "terraformtest"
 location                     = "westus2"
