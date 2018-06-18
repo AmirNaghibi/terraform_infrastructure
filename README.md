@@ -1,2 +1,3 @@
 # terraform_provision
-Use Terraform configuration script to provision a resource on AZURE
+
+Framework to create resources on Microsoft Azure using Terraform configurations known as HashiCorp Configuration Language (HCL).
